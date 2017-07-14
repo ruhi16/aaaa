@@ -12,8 +12,6 @@
   
   </div>
   
-  <?php
-    echo "Hello, I'm from php!";
-  ?>
+  
 </body>
 </html>
